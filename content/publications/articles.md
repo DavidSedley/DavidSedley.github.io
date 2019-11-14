@@ -67,7 +67,7 @@ in _Atti del XVII congresso internazionale di papirologia_ (Naples 1984), 381-7
 _[Elenchos](http://www.bibliopolis.it/rivis2.html)_ 5 (1984), 311-16
 
 ### ‘The Stoic theory of universals’
-in _Southern Journal of Philosophy_ 23, suppl., ‘Spindel Conference 1984: Recovering the Stoics’, 87-92
+in _Southern Journal of Philosophy_ 23, suppl., ‘Spindel Conference 1984: Recovering the Stoics’, 87-92; Chinese translation in _Tsinghua Studies in Western Philosophy_ 4.2 (2018), 86-92
 
 _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
