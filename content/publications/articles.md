@@ -484,13 +484,13 @@ in _Eranos Yearbook_ 73, 2015-2016 (Einsiedeln, 2017), 435-84
 in A. Purves (ed.) _Touch and the Ancient Senses_ (London and New York, 2018), 64-74
 
 ### ‘L'allusion empédocléenne en Lucrèce II, 1081-1083’
-in S. Franchet d'Espèrey and C. Lévy (eds.), _Les Présocratiques à Rome_ (Paris, 2018), 145-59
+in S. Franchet d'Espèrey and C. Lévy (eds.), _Les Présocratiques à Rome_ (Paris, 2018), 145-59; English version, 'An Empedoclean allusion at Lucretius 2.1081-3', in P. Burian, J. Strauss Clay and G. Davis (eds.), _Euphrosyne: Studies in Ancient Philosophy, History, and Literature_ (Berlin and Boston, forthcoming), 15-28
 
 ### ‘The _Phaedo_'s final proof of immortality’
 in G. Cornelli, T.M. Robinson, F. Bravo (eds.), _Plato’s Phaedo_ (Sankt Augustin, 2018), 212-22
 
 ### ‘Epicurean theories of knowledge from Hermarchus to Lucretius and Philodemus’
-in F. Verde and M. Catapano (eds.), "Hellenistic Theories of Knowledge", _Lexicon Philosophicum_ 6 (2018), 105-21
+in F. Verde and M. Catapano (eds.), "Hellenistic Theories of Knowledge", _Lexicon Philosophicum_ [online journal] 6 (2018), 105-21
 
 ### ‘Stoics and their critics on diachronic identity’
 in _Rhizomata_ 6 (2018), 24-39
@@ -501,6 +501,12 @@ in  T. Bénatouïl and K. Ierodiakonou (eds.), _Dialectic after Plato and Aristo
 ### ‘Self-sufficiency as a divine attribute in Greek philosophy'
 in A. Hunt and H. Marlow (eds.), _Ecology and Theology in the Ancient World: Cross-disciplinary Perspectives_ (London, 2019), 41-7
 
+### ‘The _Timaeus_ as vehicle for Platonic doctrine’
+  _Oxford Studies in Ancient Philosophy_ 56 (2019), 45-71
+  
+### ‘The opening lemmas of the Derveni papyrus’
+ in C. Vassallo (ed.), _Presocratics and Papyrological Tradition: A Philosophical Reappraisal of the Sources_ (Studia Praesocratica) (Berlin/Boston, 2019), 45-72
+ 
 ### ‘Énigmes et paradoxes dans la philosophie grecque ancienne’
 in B. Collette-Ducic, M.-A. Gavray, J.-M. Narbonne (eds.), _L'Esprit critique dans l'antiquité: I, Critique et licence dans la Grèce antique_ (Paris, 2019), 217-36
 
@@ -510,9 +516,6 @@ in L. Taub (ed.), _The Cambridge Companion to Ancient Science_ (Cambridge, forth
 ### ‘Celsus as Platonist philosopher’
  in J. Carleton Paget and S. Gathercole (eds.), _Celsus in his World_ (forthcoming)
 
-### ‘The opening lemmas of the Derveni papyrus’
- in C. Vassallo (ed.), _Presocratics and Papyrological Tradition: A Philosophical Reappraisal of the Sources_ (= Studia Praesocratica), Berlin/Boston: De Gruyter (forthcoming)
- 
 ### ‘Socrates’ second voyage (_Phaedo_ 99-101)’
  in F. Leigh (ed.) (volume of Keeling Lectures, forthcoming)
 
@@ -522,9 +525,6 @@ in L. Taub (ed.), _The Cambridge Companion to Ancient Science_ (Cambridge, forth
 ### ‘Lucretian pleasures’
  in V. Prosperi and D. Zucca (eds.), collection on Lucretius (forthcoming)
 
-### ‘The _Timaeus_ as vehicle for Platonic doctrine’
-  _Oxford Studies in Ancient Philosophy_ (forthcoming)
-  
 ### 'Xenocrates’ invention of Platonism’
   in M. Erler, J. Hessler and F. Petrucci (eds.), _Authorities and Authoritative Texts in the Platonist Tradition_ (Cambridge, forthcoming)
  
