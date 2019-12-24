@@ -517,7 +517,7 @@ in L. Taub (ed.), _The Cambridge Companion to Ancient Science_ (Cambridge, forth
  in J. Carleton Paget and S. Gathercole (eds.), _Celsus in his World_ (forthcoming)
 
 ### ‘Socrates’ second voyage (_Phaedo_ 99-101)’
- in F. Leigh (ed.), _BICS_ Supplement 141, _Forms, Language, and Education: S.V. Keeling Memorial Lectures in Ancient Philosophy 2011-18_ (forthcoming)
+ in F. Leigh (ed.), _BICS_ Supplement 141, _Forms, Language, and Education: S.V. Keeling Memorial Lectures in Ancient Philosophy_ 2011-18_ (forthcoming)
 
 ### ‘Carneades’ theological arguments’
  in C. Balla, E. Baziotopoulou, P. Kalligas and V. Karasmanis (eds.), _Plato’s Academy: a History_ (Cambridge, forthcoming)
