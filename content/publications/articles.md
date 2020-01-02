@@ -511,7 +511,7 @@ in A. Hunt and H. Marlow (eds.), _Ecology and Theology in the Ancient World: Cro
 in B. Collette-Ducic, M.-A. Gavray, J.-M. Narbonne (eds.), _L'Esprit critique dans l'antiquité: I, Critique et licence dans la Grèce antique_ (Paris, 2019), 217-36
 
 ### ‘Creationism’
-in L. Taub (ed.), _The Cambridge Companion to Ancient Science_ (Cambridge, forthcoming)
+in L. Taub (ed.), _The Cambridge Companion to Ancient Science_ (Cambridge, forthcoming), 121-40
 
 ### ‘Celsus as Platonist philosopher’
  in J. Carleton Paget and S. Gathercole (eds.), _Celsus in his World_ (forthcoming)
