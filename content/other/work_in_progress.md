@@ -16,8 +16,6 @@ menu:
 
 ### ‘Lucretius on imagination and mental projection’
 
-### ‘Etymology in Plato’s _Sophist_'
-
 ### ‘Are Platonic Forms concepts?’
 
 ### ‘Academic Legacies' (for _Oxford Handbook of Hellenistic Philosophy_)
