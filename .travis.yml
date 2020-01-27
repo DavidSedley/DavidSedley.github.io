@@ -6,7 +6,7 @@ notifications:
     - halfdane@gmx.net
 
 go:
-  - 1.11
+  - 1.12
 
 git:
   depth: 10
