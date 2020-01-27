@@ -15,12 +15,6 @@ branches:
   only:
     - sources
 
-env:
-  global:
-    - SOURCE_DIR="public"
-    - BUILD_BRANCH="source"
-    - DEPLOY_BRANCH="master"
-
 install:
   - mkdir $HOME/src
   - cd $HOME/src
