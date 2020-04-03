@@ -13,9 +13,13 @@ menu:
 - [Socrates](http://www.bbc.co.uk/programmes/b007zp21), September 2007
 - [Epicureanism](http://www.bbc.co.uk/programmes/b01qf083), February 2013
 
+### Ihe Forum (with Bridget Kendal, BBC World Service);
+- [Epicureanism](https://www.bbc.co.uk/programmes/w3cszjv4), April 2020
+
 ### Other:
 - [Socrates vs Darwin](http://www.christs.cam.ac.uk/college-life/charles-darwin), May 2009, Lady Margaret Lecture, Christ’s College
-- [Podcast interview on Stoicism with Peter Adamson](http://www.historyofphilosophy.net/stoics-sedley), January 2012
+[- Podcast interview on Stoicism with Peter Adamson](http://www.historyofphilosophy.net/stoics-sedley), January 2012
+T
 
 ## Video
 - [Ancient atheism, interview with Tim Whitmarsh](http://classicsconfidential.co.uk/2013/08/09/the-philosophy-of-ancient-atheism-with-david-sedley/), August 2013
