@@ -13,7 +13,7 @@ menu:
 - [Socrates](http://www.bbc.co.uk/programmes/b007zp21), September 2007
 - [Epicureanism](http://www.bbc.co.uk/programmes/b01qf083), February 2013
 
-### Ihe Forum (with Bridget Kendal, BBC World Service);
+### The Forum (with Bridget Kendal, BBC World Service);
 - [Epicureanism](https://www.bbc.co.uk/programmes/w3cszjv4), April 2020
 
 ### Other:
