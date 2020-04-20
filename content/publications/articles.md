@@ -523,7 +523,7 @@ in L. Taub (ed.), _The Cambridge Companion to Ancient Science_ (Cambridge 2020),
  in J. Carleton Paget and S. Gathercole (eds.), _Celsus in his World_ (forthcoming)
 
 ### ‘Socrates’ second voyage (_Phaedo_ 99-101)’
- in F. Leigh (ed.), _BICS_ Supplement 141, _Forms, Language, and Education: S.V. Keeling Memorial Lectures in Ancient Philosophy 2011-18_ (forthcoming 2020)
+ in F. Leigh (ed.), _BICS_ Supplement 141, _Themes in Plato, Aristotle, and Hellenistic Philosophy: Keeling Lectures 2011-18_ (forthcoming 2020)
 
 ### ‘Lucretian pleasures’
  in V. Prosperi and D. Zucca (eds.), collection on Lucretius (forthcoming)
