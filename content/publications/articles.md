@@ -519,14 +519,14 @@ in L. Taub (ed.), _The Cambridge Companion to Ancient Science_ (Cambridge 2020),
 ### ‘Carneades’ theological arguments’
  in C. Balla, E. Baziotopoulou, P. Kalligas and V. Karasmanis (eds.), _Plato’s Academy: a History_ (Cambridge, 2020), 220-45
  
+### ‘Lucretian pleasures’
+ in P. Hardie, V. Prosperi and D. Zucca (eds.), _Lucretius Poet and Philosopher. Background and Fortunes of De rerum Natura_ (Berlin, 2020), 11-22
+
 ### ‘Celsus as Platonist philosopher’
  in J. Carleton Paget and S. Gathercole (eds.), _Celsus in his World_ (forthcoming)
 
 ### ‘Socrates’ second voyage (_Phaedo_ 99-101)’
  in F. Leigh (ed.), _BICS_ Supplement 141, _Themes in Plato, Aristotle, and Hellenistic Philosophy: Keeling Lectures 2011-18_ (forthcoming 2020)
-
-### ‘Lucretian pleasures’
- in V. Prosperi and D. Zucca (eds.), collection on Lucretius (forthcoming)
 
 ### 'Xenocrates’ invention of Platonism’
   in M. Erler, J. Hessler and F. Petrucci (eds.), _Authorities and Authoritative Texts in the Platonist Tradition_ (Cambridge, forthcoming), 1-37
