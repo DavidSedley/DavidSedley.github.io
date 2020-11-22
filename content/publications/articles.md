@@ -532,5 +532,4 @@ in L. Taub (ed.), _The Cambridge Companion to Ancient Science_ (Cambridge 2020),
   in M. Erler, J. Hessler and F. Petrucci (eds.), _Authorities and Authoritative Texts in the Platonist Tradition_ (Cambridge, forthcoming), 1-37
  
 ### ‘An iconography of Xenocrates’ Platonism’
- in M. Erler, J. Hessler and F. Petrucci (eds.), _Authorities and Authoritative Texts in the Platonist Tradition_ (Cambridge, forthcoming)
-38-63
+ in M. Erler, J. Hessler and F. Petrucci (eds.), _Authorities and Authoritative Texts in the Platonist Tradition_ (Cambridge, forthcoming), 38-63
