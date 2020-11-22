@@ -529,7 +529,8 @@ in L. Taub (ed.), _The Cambridge Companion to Ancient Science_ (Cambridge 2020),
  in V. Prosperi and D. Zucca (eds.), collection on Lucretius (forthcoming)
 
 ### 'Xenocrates’ invention of Platonism’
-  in M. Erler, J. Hessler and F. Petrucci (eds.), _Authorities and Authoritative Texts in the Platonist Tradition_ (Cambridge, forthcoming)
+  in M. Erler, J. Hessler and F. Petrucci (eds.), _Authorities and Authoritative Texts in the Platonist Tradition_ (Cambridge, forthcoming), 1-37
  
 ### ‘An iconography of Xenocrates’ Platonism’
  in M. Erler, J. Hessler and F. Petrucci (eds.), _Authorities and Authoritative Texts in the Platonist Tradition_ (Cambridge, forthcoming)
+38-63
