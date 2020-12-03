@@ -522,7 +522,7 @@ in L. Taub (ed.), _The Cambridge Companion to Ancient Science_ (Cambridge 2020),
 ### ‘Lucretian pleasures’
  in P. Hardie, V. Prosperi and D. Zucca (eds.), _Lucretius Poet and Philosopher. Background and Fortunes of De rerum Natura_ (Berlin, 2020), 11-22
 
-### ‘Why aren’t atoms coloured?
+### ‘Why aren’t atoms coloured?’
  in U. Zilioli (ed.), _Atomism in Philosophy: a History from Antiquity to the Present_ (Cambridge, 2020), 61-74
 
 ### ‘Celsus as Platonist philosopher’
