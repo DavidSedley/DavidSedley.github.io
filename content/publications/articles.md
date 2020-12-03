@@ -522,6 +522,9 @@ in L. Taub (ed.), _The Cambridge Companion to Ancient Science_ (Cambridge 2020),
 ### ‘Lucretian pleasures’
  in P. Hardie, V. Prosperi and D. Zucca (eds.), _Lucretius Poet and Philosopher. Background and Fortunes of De rerum Natura_ (Berlin, 2020), 11-22
 
+### ‘Why aren’t atoms coloured?
+ in U. Zilioli (ed.), _Atomism in Philosophy: a History from Antiquity to the Present_ (Cambridge, 2020), 61-74
+
 ### ‘Celsus as Platonist philosopher’
  in J. Carleton Paget and S. Gathercole (eds.), _Celsus in his World_ (forthcoming)
 
@@ -533,3 +536,4 @@ in L. Taub (ed.), _The Cambridge Companion to Ancient Science_ (Cambridge 2020),
  
 ### ‘An iconography of Xenocrates’ Platonism’
  in M. Erler, J. Hessler and F. Petrucci (eds.), _Authorities and Authoritative Texts in the Platonist Tradition_ (Cambridge, forthcoming), 38-63
+ 
