@@ -521,6 +521,9 @@ in L. Taub (ed.), _The Cambridge Companion to Ancient Science_ (Cambridge 2020),
  
 ### ‘Lucretian pleasures’
  in P. Hardie, V. Prosperi and D. Zucca (eds.), _Lucretius Poet and Philosopher. Background and Fortunes of De rerum Natura_ (Berlin, 2020), 11-22
+ 
+### ‘Plato’s self-references’
+ in B. Bossi and T.M.Robinson (eds.), _Plato’s Theaetetus revisited_ (Berlin/Boston, 2020), 3-9
 
 ### ‘Why aren’t atoms coloured?’
  in U. Zilioli (ed.), _Atomism in Philosophy: a History from Antiquity to the Present_ (Cambridge, 2020), 61-74
