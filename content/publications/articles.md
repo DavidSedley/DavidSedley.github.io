@@ -245,7 +245,7 @@ in _Proceedings of the Cambridge Philological Society_ 228 (2002), 159-74
 published on line in _[Plato](http://www.ex.ac.uk/plato)_ 3 (2003)
 
 ### ‘The school: from Zeno to Arius Didymus’
-in B. Inwood (ed.), _[The Cambridge Companion to the Stoics](http://www.cambridge.org/uk/catalogue/catalogue.asp?isbn=0521779855)_ (Cambridge 2003), 7-34
+in B. Inwood (ed.), _The Cambridge Companion to the Stoics_ (Cambridge 2003), 7-34
 
 ### (with Jacques Brunschwig) ‘Hellenistic philosophy’
 in D.N. Sedley (ed.), _The Cambridge Companion to Greek and Roman Philosophy_ (Cambridge 2003), 151-83
