@@ -6,7 +6,11 @@ menu:
     parent: 'Other'
 ---
 
-I would love to hear ({{< email >}}) from any other academics who have substantially reduced their flying or are keen to do so, and from anyone with information on practical alternatives to academic travel, e.g. high-quality video-conferencing.
+For the last twelve years I have had a notice posted here asking to hear from other academics who have substantially reduced their flying or are keen to do so, and from anyone with information on practical alternatives to academic travel, e.g. high-quality video-conferencing.
+
+As I update the page in January 2021, the situation has changed almost beyond recognition. Because of Coronavirus, academic travel has largely ceased. And we have learnt a lot about holding travel-free academic meetings through remote links. I think most of us will agree that these have disadvantages, e.g. the lack of social contact, but also merits, including the time, jetlag, money and carbon saved, not to mention enhanced access to very distant or otherwise inaccessible colleagues. 
+
+It is incredibly important that, when the pandemic is finally over, academics do not simply revert to their old ways but, for the sake of the planet, capitalise on what we have learnt.
 
 
 ## From interview in Times Higher Education, 18 June 2009
@@ -31,8 +35,5 @@ The academy must change its ways of planning and organising conferences, he argu
 
 "While drastic cuts in the number of conferences might alter the fabric of academic life," Sedley concludes, "a more modest reduction would do little harm. All I am saying is that environmentally damaging travel is one of the issues academics need to take account of. But I fear that may happen only when climate change becomes a hideous reality close to home, as it already is beginning to be in some parts of the world."
 
-[Article (2)](http://www.timeshighereducation.co.uk/story.asp?storyCode=407945&sectioncode=26)
-
-[Article (3)](http://www.cherwell.org/2010/04/29/we-are-all-slaves-to-carbon/)
 
 [What can we do globally to stop the huge damage flying does? READ THIS.](http://www.afreeride.org/)
