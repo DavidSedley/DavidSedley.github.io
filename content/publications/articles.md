@@ -506,7 +506,7 @@ in A. Hunt and H. Marlow (eds.), _Ecology and Theology in the Ancient World: Cro
   
 ### ‘The opening lemmas of the Derveni papyrus’
  in C. Vassallo (ed.), _Presocratics and Papyrological Tradition: A Philosophical Reappraisal of the Sources_ (Studia Praesocratica) (Berlin/Boston, 2019), 45-72. 
- (Revised version, 'The opening lemmas', in G.W. Most (ed.) _Studies on the Derveni papyrus_ vol. 2 (Oxford forthcoming.)
+ Revised version, 'The opening lemmas', in G.W. Most (ed.) _Studies on the Derveni papyrus_ vol. 2 (Oxford, forthcoming).
  
 ### ‘Énigmes et paradoxes dans la philosophie grecque ancienne’
 in B. Collette-Ducic, M.-A. Gavray, J.-M. Narbonne (eds.), _L'Esprit critique dans l'antiquité: I, Critique et licence dans la Grèce antique_ (Paris, 2019), 217-36
