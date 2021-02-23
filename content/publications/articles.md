@@ -528,11 +528,11 @@ in L. Taub (ed.), _The Cambridge Companion to Ancient Science_ (Cambridge 2020),
 ### ‘Why aren’t atoms coloured?’
  in U. Zilioli (ed.), _Atomism in Philosophy: a History from Antiquity to the Present_ (Cambridge, 2020), 61-74
 
-### ‘Celsus as Platonist philosopher’
- in J. Carleton Paget and S. Gathercole (eds.), _Celsus in his World_ (forthcoming)
-
 ### ‘Socrates’ second voyage (_Phaedo_ 99-101)’
  in F. Leigh (ed.), _BICS_ Supplement 141, _Themes in Plato, Aristotle, and Hellenistic Philosophy: Keeling Lectures 2011-18_ (forthcoming 2021), 47-62
+ 
+ ### ‘Celsus as Platonist philosopher’
+ in J. Carleton Paget and S. Gathercole (eds.), _Celsus in his World_ (forthcoming)
 
 ### 'Xenocrates’ invention of Platonism’
   in M. Erler, J. Hessler and F. Petrucci (eds.), _Authorities and Authoritative Texts in the Platonist Tradition_ (Cambridge, forthcoming), 1-37
