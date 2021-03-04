@@ -532,7 +532,10 @@ in L. Taub (ed.), _The Cambridge Companion to Ancient Science_ (Cambridge 2020),
 ### ‘Socrates’ second voyage (_Phaedo_ 99-101)’
  in F. Leigh (ed.), _BICS_ Supplement 141, _Themes in Plato, Aristotle, and Hellenistic Philosophy: Keeling Lectures 2011-18_ (2021), 47-62
  
- ### ‘Celsus as Platonist philosopher’
+### ‘Lucretius on imagination and mental projection’   
+in D. El Murr (ed.), _Le De rerum natura de Lucrèce: perspectives philosophiques_,  AITIA 10 (2020) https://journals.openedition.org/aitia/7491![Uploading image.png…](https://journals.openedition.org/aitia/7491
+
+### ‘Celsus as Platonist philosopher’
  in J. Carleton Paget and S. Gathercole (eds.), _Celsus in his World_ (forthcoming)
 
 ### 'Xenocrates’ invention of Platonism’
