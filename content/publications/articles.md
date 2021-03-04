@@ -530,8 +530,7 @@ in L. Taub (ed.), _The Cambridge Companion to Ancient Science_ (Cambridge 2020),
  in U. Zilioli (ed.), _Atomism in Philosophy: a History from Antiquity to the Present_ (Cambridge, 2020), 61-74
 
 ### ‘Lucretius on imagination and mental projection’   
-in D. El Murr (ed.), _Le De rerum natura de Lucrèce: perspectives philosophiques_, AITIA 10 (2020) 
-(https://journals.openedition.org/aitia/7491)
+in D. El Murr (ed.), _Le De rerum natura de Lucrèce: perspectives philosophiques_, AITIA 10 (2020) [online journal]
 
 
 ### ‘Socrates’ second voyage (_Phaedo_ 99-101)’
