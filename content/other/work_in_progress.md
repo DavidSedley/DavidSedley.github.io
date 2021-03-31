@@ -12,11 +12,9 @@ menu:
 
 ### ‘Theological dualism and the origins of Greek philosophy’
 
-### ‘Why aren't atoms coloured?’
-
-### ‘Lucretius on imagination and mental projection’
-
 ### ‘Are Platonic Forms concepts?’
+
+### ‘Parmenides on names’
 
 ### ‘Academic Legacies' (for _Oxford Handbook of Hellenistic Philosophy_)
 
