@@ -514,6 +514,9 @@ in B. Collette-Ducic, M.-A. Gavray, J.-M. Narbonne (eds.), _L'Esprit critique da
 ### ‘Etymology in Plato's _Sophist_’
 _Hyperboreus_ 25.2 (2019) 290-301
 
+### ‘Plato’s theology’
+in G. Fine (ed.), _The Oxford Handbook of Plato_ (Oxford 2019), 305-32
+
 ### ‘Creationism’
 in L. Taub (ed.), _The Cambridge Companion to Ancient Science_ (Cambridge 2020), 121-40
 
