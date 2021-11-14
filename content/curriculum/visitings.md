@@ -63,3 +63,6 @@ Michael Frede Memorial Lecture, Athens
 
 ### March 2019:
 Edith Bruce Memorial Lecture, University of Toronto
+
+### October 2021:
+SAGP (Society for Ancient Greek Philosophy) Annual Lecture
