@@ -65,4 +65,4 @@ Michael Frede Memorial Lecture, Athens
 Edith Bruce Memorial Lecture, University of Toronto
 
 ### October 2021:
-SAGP (Society for Ancient Greek Philosophy) Annual Lecture
+SAGP (Society for Ancient Greek Philosophy) Annual Lecture (Zoom)
