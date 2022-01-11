@@ -24,8 +24,8 @@ __________________
 __________________
 ## *Books*
 
-### Themes in Greek theology
-based on 2014 lectures at Renmin University, Beijing, currently being translated for publication in Chinese; English version to follow later.
+### _Themes in Greek Theology_
+Based on 2014 lectures at Renmin University. Chinese version published November 2021, Beijing. Expanded and revised English verrsion is expected to appear eventually in the CUP series 'Key Themes in Ancient Philosophy'.
 
 ### Plato’s _Phaedo_
-not a commentary but a discursive study of the whole dialogue
+Not a commentary but a discursive study of the whole dialogue
