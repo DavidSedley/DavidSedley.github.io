@@ -506,7 +506,7 @@ in A. Hunt and H. Marlow (eds.), _Ecology and Theology in the Ancient World: Cro
   
 ### ‘The opening lemmas of the Derveni papyrus’
  in C. Vassallo (ed.), _Presocratics and Papyrological Tradition: A Philosophical Reappraisal of the Sources_ (Studia Praesocratica) (Berlin/Boston, 2019), 45-72. 
- Revised version, 'The opening lemmas', in G.W. Most (ed.) _Studies on the Derveni papyrus_ vol. 2 (Oxford, forthcoming).
+ Revised version (not uploaded), 'The opening lemmas', in G.W. Most (ed.) _Studies on the Derveni papyrus_ vol. 2 (Oxford, 2023).
  
 ### ‘Énigmes et paradoxes dans la philosophie grecque ancienne’
 in B. Collette-Ducic, M.-A. Gavray, J.-M. Narbonne (eds.), _L'Esprit critique dans l'antiquité: I, Critique et licence dans la Grèce antique_ (Paris, 2019), 217-36
@@ -515,7 +515,7 @@ in B. Collette-Ducic, M.-A. Gavray, J.-M. Narbonne (eds.), _L'Esprit critique da
 _Hyperboreus_ 25.2 (2019) 290-301
 
 ### ‘Plato’s theology’
-in G. Fine (ed.), _The Oxford Handbook of Plato_ (Oxford 2019), 305-32
+in G. Fine (ed.), _The Oxford Handbook of Plato_ (second edition, Oxford 2019), 305-32
 
 ### ‘Creationism’
 in L. Taub (ed.), _The Cambridge Companion to Ancient Science_ (Cambridge 2020), 121-40
@@ -545,4 +545,4 @@ in D. El Murr (ed.), _Le De rerum natura de Lucrèce: perspectives philosophique
  in M. Erler, J. Hessler and F. Petrucci (eds.), _Authorities and Authoritative Texts in the Platonist Tradition_ (Cambridge 2021), 38-63
  
 ### ‘Celsus as Platonist philosopher’
- in J. Carleton Paget and S. Gathercole (eds.), _Celsus in his World_ (forthcoming)
+ in J. Carleton Paget and S. Gathercole (eds.), _Celsus in his World_ (Cambridge 2021), 106-26
