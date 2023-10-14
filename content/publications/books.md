@@ -41,6 +41,7 @@ class: "books"
 ### Italian translation by Francesco Verde, _Creazionismo. Il dibattito antico da Anassagora a Galeno_
 (Rome, 2011)
 ![](../bookcovers/Creazionismo.jpg)
+### Modern Greek translation by Stavros Kouloumentas (2023)
 
 ### (ed., with A.M. Ioppolo) _Pyrrhonists, Patricians, Platonizers. Hellenistic Philosophy in the Period 155-86 BC_
 (Naples, 2007)
