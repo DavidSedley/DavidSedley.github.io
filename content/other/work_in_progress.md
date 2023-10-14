@@ -12,11 +12,8 @@ menu:
 
 ### ‘Theological dualism and the origins of Greek philosophy’
 
-### ‘Are Platonic Forms concepts?’
-
 ### ‘Parmenides on names’
 
-### ‘Academic Legacies' (for _Oxford Handbook of Hellenistic Philosophy_)
 
 
 
