@@ -546,3 +546,10 @@ in D. El Murr (ed.), _Le De rerum natura de Lucrèce: perspectives philosophique
  
 ### ‘Celsus as Platonist philosopher’
  in J. Carleton Paget and S. Gathercole (eds.), _Celsus in his World_ (Cambridge 2021), 106-26
+
+ ### ‘Are Platonic Forms concepts?’
+in G. Betegh and V. Tsouna (eds.), _Conceptualising Concepts in Greek Philosophy_ (Cambridge, forthcoming 2023)
+
+### ‘The legacies of Academic skepticism' 
+in J. Klein and N. Powers (eds.)_The Oxford Handbook of Hellenistic Philosophy_) (forthcoming)
+
