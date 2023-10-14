@@ -12,7 +12,11 @@ menu:
 
 ### ‘Theological dualism and the origins of Greek philosophy’
 
-### ‘Parmenides on names’
+### ‘Parmenides on naming'
+
+### 'Plato's _Parmenides_ and the Fourth Man' (for an SAGP panel, 4 Nov. 2023)
+
+
 
 
 
@@ -22,7 +26,7 @@ __________________
 ## *Books*
 
 ### _Themes in Greek Theology_
-Based on 2014 lectures at Renmin University. Chinese version published November 2021, Beijing. Expanded and revised English verrsion is expected to appear eventually in the CUP series 'Key Themes in Ancient Philosophy'.
+Based on 2014 lectures at Renmin University. Chinese version published November 2021, Beijing. Expanded and revised English version is expected to appear eventually in the CUP series 'Key Themes in Ancient Philosophy'.
 
 ### Plato’s _Phaedo_
 Not a commentary but a discursive study of the whole dialogue
