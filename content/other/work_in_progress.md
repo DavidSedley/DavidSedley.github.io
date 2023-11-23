@@ -21,9 +21,12 @@ menu:
 
 
 
+
 __________________
 __________________
 ## *Books*
+
+### A volume of 12 selected papers on ancient philosophy, in French translation, in the series Tradition de la pensée classique', ed. M. Dixsaut and D. El Murr (Vrin)
 
 ### _Themes in Greek Theology_
 Based on 2014 lectures at Renmin University. Chinese version published November 2021, Beijing. Expanded and revised English version is expected to appear eventually in the CUP series 'Key Themes in Ancient Philosophy'.
