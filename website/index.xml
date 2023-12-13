@@ -12,8 +12,7 @@
       <link>https://DavidSedley.github.io/website/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://DavidSedley.github.io/website/about/</guid>
-      <description>Disclaimer This page belongs to David Sedley and all rights belong to him.
-Technical Stuff The site is built using the static site generator hugo The theme is an adapted Bootie Docs The sources can be found on github The build runs on travis-ci.org: halfdane is handling the page&amp;rsquo;s technical details and administration. Contact: halfdane@gmx.net </description>
+      <description>Disclaimer This page belongs to David Sedley and all rights belong to him.&#xA;Technical Stuff The site is built using the static site generator hugo The theme is an adapted Bootie Docs The sources can be found on github The build runs on travis-ci.org: halfdane is handling the page&amp;rsquo;s technical details and administration. Contact: halfdane@gmx.net </description>
     </item>
   </channel>
 </rss>
