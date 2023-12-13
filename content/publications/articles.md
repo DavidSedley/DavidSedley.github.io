@@ -547,6 +547,10 @@ in D. El Murr (ed.), _Le De rerum natura de Lucrèce: perspectives philosophique
 ### ‘Celsus as Platonist philosopher’
  in J. Carleton Paget and S. Gathercole (eds.), _Celsus in his World_ (Cambridge 2021), 106-26
 
+ ### ‘Comments on Daniel C. Russell. 'Three mistakes about Stoic ethics'
+ in F. Leigh and M. Hampson (eds.), _Psychology and Vaue in Plato, Aristotle, and Hellenistic Philosophy: the Ninth Keeling Colloquium in Ancient Philosophy_ (Oxford 2022), 203-7
+
+
  ### ‘Are Platonic Forms concepts?’
 in G. Betegh and V. Tsouna (eds.), _Conceptualising Concepts in Greek Philosophy_ (Cambridge, forthcoming 2023)
 
