@@ -6,11 +6,11 @@ menu:
     parent: 'Other'
 ---
 
-For the last twelve years I have had a notice posted here asking to hear from other academics who have substantially reduced their flying or are keen to do so, and from anyone with information on practical alternatives to academic travel, e.g. high-quality video-conferencing.
+For twwelve yearsn I had a notice posted here asking to hear from other academics who have substantially reduced their flying or are keen to do so, and from anyone with information on practical alternatives to academic travel, e.g. high-quality video-conferencing.
 
-As I update the page in January 2021, the situation has changed almost beyond recognition. Because of Coronavirus, academic travel has largely ceased. And we have learnt a lot about holding travel-free academic meetings through remote links. I think most of us will agree that these have disadvantages, e.g. the lack of social contact, but also merits, including the time, jetlag, money and carbon saved, not to mention enhanced access to very distant or otherwise inaccessible colleagues. 
+When I updated the page in January 2021, the situation had changed almost beyond recognition. Because of Coronavirus, academic travel had largely ceased. And we had learnt a lot about holding travel-free academic meetings through remote links. I think most of us will agree that these have disadvantages, e.g. the lack of social contact, but also merits, including the time, jetlag, money and carbon saved, not to mention enhanced access to very distant or otherwise inaccessible colleagues. 
 
-It is incredibly important that, when the pandemic is finally over, academics do not simply revert to their old ways but, for the sake of the planet, capitalise on what we have learnt.
+It is incredibly important that, with the pandemic behindus, academics do not simply revert to their old ways but, for the sake of the planet, capitalise on what we  learnt.
 
 
 ## From interview in Times Higher Education, 18 June 2009
