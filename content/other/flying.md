@@ -6,7 +6,7 @@ menu:
     parent: 'Other'
 ---
 
-For twwelve yearsn I had a notice posted here asking to hear from other academics who have substantially reduced their flying or are keen to do so, and from anyone with information on practical alternatives to academic travel, e.g. high-quality video-conferencing.
+For twelve yearsn I had a notice posted here asking to hear from other academics who have substantially reduced their flying or are keen to do so, and from anyone with information on practical alternatives to academic travel, e.g. high-quality video-conferencing.
 
 When I updated the page in January 2021, the situation had changed almost beyond recognition. Because of Coronavirus, academic travel had largely ceased. And we had learnt a lot about holding travel-free academic meetings through remote links. I think most of us will agree that these have disadvantages, e.g. the lack of social contact, but also merits, including the time, jetlag, money and carbon saved, not to mention enhanced access to very distant or otherwise inaccessible colleagues. 
 
