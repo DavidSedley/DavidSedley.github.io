@@ -12,12 +12,13 @@ menu:
 
 ### ‘Theological dualism and the origins of Greek philosophy’
 
-### ‘A Parmenidean self-exegesis' = 'Parménide commentateur de Parménide'
+### ‘A Parmenidean self-exegesis' = 'Parménide, exégète de Parménide'
 
-### 'Plato's _Parmenides_ and the Fourth Man' (for an SAGP panel, 4 Nov. 2023)
+### 'Plato's _Parmenides_ and the Fourth Man' (for a SAGP Zoom panel, 4 Nov. 2023)
 
 ### 'The Argument from Relatives'
 
+### 'Plato and Stoic ontology'(for a SAGP Zoom panel, Nov. 2024)
 
 
 
