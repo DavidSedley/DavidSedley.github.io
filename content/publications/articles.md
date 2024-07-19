@@ -552,7 +552,7 @@ in D. El Murr (ed.), _Le De rerum natura de Lucrèce: perspectives philosophique
 
 
  ### ‘Are Platonic Forms concepts?’
-in G. Betegh and V. Tsouna (eds.), _Conceptualising Concepts in Greek Philosophy_ (Cambridge, forthcoming 2023)
+in G. Betegh and V. Tsouna (eds.), _Conceptualising Concepts in Greek Philosophy_ (Cambridge,  2024)
 
 ### ‘The legacies of Academic skepticism' 
 in J. Klein and N. Powers (eds.)_The Oxford Handbook of Hellenistic Philosophy_) (forthcoming)
