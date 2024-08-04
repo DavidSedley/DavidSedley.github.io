@@ -262,8 +262,7 @@ _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 _Proceedings of the Boston Area Colloquium in Ancient Philosophy_ 18 (2003), 277-313
 
 ### ‘Etymology as a _techne_ in Plato’s _Cratylus’_
-in C. Nifadopoulos (ed.), _ETYMOLOGIA: Studies in Ancient Etymology_ (Münster, 2003), 21-32; also ‘La tecnicità del metodo etimologico nel Cratilo’, in M. Migliori (ed.), _Il problema del metodo in Platone e Aristotele_(forthcoming)
-
+in C. Nifadopoulos (ed.), _ETYMOLOGIA: Studies in Ancient Etymology_ (Münster, 2003), 21-32
 ### ‘The _nomothetes_ in Plato’s _Cratylus’_
 _Studia Philonica Annual_ 15 (2003), 5-16
 
