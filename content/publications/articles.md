@@ -483,7 +483,7 @@ in _Eranos Yearbook_ 73, 2015-2016 (Einsiedeln, 2017), 435-84
 in A. Purves (ed.) _Touch and the Ancient Senses_ (London and New York, 2018), 64-74
 
 ### ‘L'allusion empédocléenne en Lucrèce II, 1081-1083’
-in S. Franchet d'Espèrey and C. Lévy (eds.), _Les Présocratiques à Rome_ (Paris, 2018), 145-59; English version, 'An Empedoclean allusion at Lucretius 2.1081-3', in P. Burian, J. Strauss Clay and G. Davis (eds.), _Euphrosyne: Studies in Ancient Philosophy, History, and Literature_ (Berlin and Boston, forthcoming), 15-28
+in S. Franchet d'Espèrey and C. Lévy (eds.), _Les Présocratiques à Rome_ (Paris, 2018), 145-59; English version, 'An Empedoclean allusion at Lucretius 2.1081-3', in P. Burian, J. Strauss Clay and G. Davis (eds.), _Euphrosyne: Studies in Ancient Philosophy, History, and Literature_ (Berlin and Boston, 2020), 15-28
 
 ### ‘The _Phaedo_'s final proof of immortality’
 in G. Cornelli, T.M. Robinson, F. Bravo (eds.), _Plato’s Phaedo_ (Sankt Augustin, 2018), 212-22
