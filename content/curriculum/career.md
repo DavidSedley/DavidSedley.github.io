@@ -15,11 +15,11 @@ Dyson Junior Research Fellow in Greek Culture, [Balliol College, Oxford](http://
 ### April 1975 - Sept. 1978:
 University Assistant Lecturer in [Classics, University of Cambridge](http://www.classics.cam.ac.uk/)
 
-### -Oct 2023- :
+### -Oct 2023-Sept. 2023`:
 Fellow of [Christ's College, Cambridge](http://www.christs.cam.ac.uk/)
 
 ### May 1976 -Oct 2023 :
-Emeritus Fellow of [Christ's College, Cambridge](http://www.christs.cam.ac.uk/)
+Fellow of [Christ's College, Cambridge](http://www.christs.cam.ac.uk/)
 
 ### Oct. 1978 - Sept. 1989:
 University Lecturer in Classics, [University of Cambridge](http://www.cam.ac.uk/)
@@ -32,3 +32,5 @@ Professor of Ancient Philosophy, [University of Cambridge](http://www.cam.ac.uk/
 
 ### July 2000 - Sept. 2014:
 [Laurence Professor of Ancient Philosophy](http://en.wikipedia.org/wiki/Laurence_Professor_of_Ancient_Philosophy), University of Cambridge
+### Oct. 2023 - 
+Emeritus Fellow of [Christ's College, Cambridge](http://www.christs.cam.ac.uk/)
