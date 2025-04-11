@@ -23,7 +23,8 @@ __________________
 __________________
 ## *Books*
 
-### _Études de philosophie ancienne_ in the series᾽Tradition de la pensée classique', ed. M. Dixsaut and D. El Murr (Paris, Vrin)
+### _Études de philosophie ancienne_ 
+in the series᾽Tradition de la pensée classique', ed. M. Dixsaut and D. El Murr (Paris, Vrin)
 Twelve selected articles translated into French, including a new one on Parmenides.
 
 ### _Studies in Greek Theology_
