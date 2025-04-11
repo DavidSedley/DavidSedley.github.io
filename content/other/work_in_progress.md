@@ -18,19 +18,16 @@ For collective volume on the early Academy
 For collective volume on Stoic ontology, ed. R. Salles
 
 ### 'Authorial self-references in Plato's dialogues'
-A final synoptic treatment of a motif I have hitherto studied only piecemeal
+Synoptic decoding of a motif I have hitherto studied only piecemeal
 
 
 __________________
 __________________
 ## *Books*
 
-### _Études de philosophie ancienne_
-Volume in the series᾽Tradition de la pensée classique', ed. M. Dixsaut and D. El Murr (Paris, Vrin).
-Twelve of my articles, translated into French,including a new one on Parmenides.
 
 ### _Studies in Greek Theology_
 For the CUP series 'Key Themes in Ancient Philosophy', ed. A.G. Long and V. Tsouna. Preliminary version in Chinese translation, published  Beijing, 2021.
 
 ### _The Arguments of Plato’s Phaedo_
-Synthesised out of my various past stidies bearing on this dialogue.
+Synthesised out of my past stidies bearing on this dialogue.
