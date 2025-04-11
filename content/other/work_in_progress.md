@@ -21,7 +21,7 @@ __________________
 __________________
 ## *Books*
 
-### _Études de philosophiw ancienne_ in the series᾽Tradition de la pensée classique', ed. M. Dixsaut and D. El Murr (Paris, Vrin)
+### _Études de philosophie ancienne_ in the series᾽Tradition de la pensée classique', ed. M. Dixsaut and D. El Murr (Paris, Vrin)
 
 ### _Studies in Greek Theology_
 For the CUP series 'Key Themes in Ancient Philosophy', ed. A.G. Long and V. Tsouna. Preliminary version in Chinese translation, published  Beijing, 2021.
