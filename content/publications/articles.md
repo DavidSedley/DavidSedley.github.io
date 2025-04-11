@@ -338,30 +338,30 @@ _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 in J. Barnes, J.-B. Gourinat (ed.) _Lire les stoiciens_ (2009), 79-97
 
 ### ‘Epicureanism in the Late Roman Republic’
-in J. Warren (ed.), _The Cambridge Companion to Epicureanism_ (Cambridge 2009), 29-45
+in J. Warren (ed.), _The Cambridge Companion to Epicureanism_ (Cambridge, 2009), 29-45
 
 ### ‘Plato’s _Timaeus_ and Hesiod’s  _Theogony’_
-in J.H. Haubold, G.R. Boys-Stones (ed.), _Plato and Hesiod_ (Oxford 2009), 246-58
+in J.H. Haubold, G.R. Boys-Stones (ed.), _Plato and Hesiod_ (Oxford, 2009), 246-58
 
 _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
 
 ### ‘Three kinds of Platonic immortality’
-in D. Frede and B. Reis (eds.), _Body and Soul in Ancient Philosophy_ (Berlin 2009), 145-61
+in D. Frede and B. Reis (eds.), _Body and Soul in Ancient Philosophy_ (Berlin, 2009), 145-61
 
 _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
 ### ‘Philosophy in the Artemidorus papyrus’
-in C. Gallazzi, B. Kramer, S. Settis (eds.) _Intorno al Papiro di Artemidoro I. Contesto Culturale, Lingua e Stile. Atti del Convegno di Pisa del 15 novembre 2008_ (Milan 2009), 29-53
+in C. Gallazzi, B. Kramer, S. Settis (eds.) _Intorno al Papiro di Artemidoro I. Contesto Culturale, Lingua e Stile. Atti del Convegno di Pisa del 15 novembre 2008_ (Milan, 2009), 29-53
 
 ### ‘The _Theaetetus_ as an ethical dialogue’
-in A. Havlicek, F. Karfik and S. Spinka (eds.), _Plato’s Theaetetus. Proceedings of Sixth Symposium Platonicum Pragense_ (2009), 2-13. Revised version,  ‘Plato’s _Theaetetus_ as an ethical dialogue’ in A. Nightingale and D. Sedley (eds.), _Ancient Models of Mind. Studies in Human and Divine Rationality_ (Cambridge 2010), 64-74
+in A. Havlicek, F. Karfik and S. Spinka (eds.), _Plato’s Theaetetus. Proceedings of Sixth Symposium Platonicum Pragense_ (2009), 2-13. Revised version,  ‘Plato’s _Theaetetus_ as an ethical dialogue’ in A. Nightingale and D. Sedley (eds.), _Ancient Models of Mind. Studies in Human and Divine Rationality_ (Cambridge, 2010), 64-74
 
 ### ‘The status of physics in Lucretius, Philodemus and Cicero’
-in A. Antoni, D. Delattre (eds.), _Miscellanea Papyrologica Herculanensia volumen I_ (Pisa 2010), 63-8
+in A. Antoni, D. Delattre (eds.), _Miscellanea Papyrologica Herculanensia volumen I_ (Pisa, 2010), 63-8
 
 ### ‘Teleology, Aristotelian and Platonic’
-in J. Lennox, R. Bolton (eds.), _Being, Nature and Life in Aristotle: Essays in Honor of Allan Gotthelf_ (Cambridge 2010), 5-29
+in J. Lennox, R. Bolton (eds.), _Being, Nature and Life in Aristotle: Essays in Honor of Allan Gotthelf_ (Cambridge, 2010), 5-29
 
 _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
@@ -399,7 +399,7 @@ in D. Sedley (ed.) _The Philosophy of Antiochus_ (Cambridge 2012), 80-103
 _Proceedings of the Boston Area Colloquium in Ancient Philosophy_ XXVII (Leiden 2012), 183-201
 
 ### ‘Plato’s theory of change at _Phaedo_ 70-1’
-in _Presocratics and Plato: A Festschrift in Honor of Charles H. Kahn_ (Las Vegas, forthcoming 2012), 181-97
+in _Presocratics and Plato: A Festschrift in Honor of Charles H. Kahn_ (Las Vegas,  2012), 181-97
 
 _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
@@ -431,7 +431,7 @@ _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 in G. Boys-Stones, D. El Murr, C. Gill (eds.) _The Platonic Art of Philosophy. Studies in Honour of Christopher Rowe_ (Cambridge 2013), 70-89
 
 ### ‘The unity of virtue after the _Protagoras’_
-in  B. Collette and S. Delcomminette (eds.), _Unité et origine des vertus dans la philosophie ancienne_ (2014), 65-90
+in  B. Collette and S. Delcomminette (eds.), _Unité et origine des vertus dans la philosophie ancienne_ (Brussels, 2014), 65-90
 
 _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
@@ -442,7 +442,7 @@ _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
 
 ### ‘Diogenes Laertius on the ten Pyrrhonist modes’
-in K.M. Vogt (ed.), _Pyrrhonian Skepticism in Diogenes Laertius_ (Tübingen 2015), 171-85
+in K.M. Vogt (ed.), _Pyrrhonian Skepticism in Diogenes Laertius_ (Tübingen, 2015), 171-85
 
 _[Read online or download](https://cambridge.academia.edu/DavidSedley)_
 
@@ -538,10 +538,10 @@ in D. El Murr (ed.), _Le De rerum natura de Lucrèce: perspectives philosophique
  in F. Leigh (ed.), _BICS_ Supplement 141, _Themes in Plato, Aristotle, and Hellenistic Philosophy: Keeling Lectures 2011-18_ (2021), 47-62
  
 ### 'Xenocrates’ invention of Platonism’
-  in M. Erler, J. Hessler and F. Petrucci (eds.), _Authorities and Authoritative Texts in the Platonist Tradition_ (Cambridge 2021), 1-37
+  in M. Erler, J. Hessler and F. Petrucci (eds.), _Authorities and Authoritative Texts in the Platonist Tradition_ (Cambridge, 2021), 1-37
  
 ### ‘An iconography of Xenocrates’ Platonism’
- in M. Erler, J. Hessler and F. Petrucci (eds.), _Authorities and Authoritative Texts in the Platonist Tradition_ (Cambridge 2021), 38-63
+ in M. Erler, J. Hessler and F. Petrucci (eds.), _Authorities and Authoritative Texts in the Platonist Tradition_ (Cambridge, 2021), 38-63
  
 ### ‘Celsus as Platonist philosopher’
  in J. Carleton Paget and S. Gathercole (eds.), _Celsus in his World_ (Cambridge 2021), 106-26
@@ -554,5 +554,11 @@ in D. El Murr (ed.), _Le De rerum natura de Lucrèce: perspectives philosophique
 in G. Betegh and V. Tsouna (eds.), _Conceptualising Concepts in Greek Philosophy_ (Cambridge,  2024)
 
 ### ‘The legacies of Academic skepticism' 
-in J. Klein and N. Powers (eds.)_The Oxford Handbook of Hellenistic Philosophy_) (forthcoming)
+in J. Klein and N. Powers (eds.)_The Oxford Handbook of Hellenistic Philosophy_) (Oxford, 2025)
 
+### ‘A Parmenidean self-exegesis'
+in A.G. Long and B. Sattler (eds.), _Parmenides: New Perspectives_ (Oxford, 2025 forthcoming)
+= 'Parménide, exégète de Parménide', in D. Sedley, _Études de philosophie ancienne_ chapitre 1 (Paris, 2025, forthcoming)
+
+### ‘Divine anonymity'
+(forthcoming in P. Kalligas Festschrift)
