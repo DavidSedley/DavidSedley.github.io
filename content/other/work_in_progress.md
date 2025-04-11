@@ -12,7 +12,7 @@ menu:
 
 ### 'The Argument from Relatives'
 
-### 'The Academic background to Stoic ontology', for volume on Stoic ontology, ed. R. Salles
+### 'The Academic background to Stoic ontology', for collective volume on Stoic ontology, ed. R. Salles
 
 ### 'Authorial aelf-references in Plato's dialogues'
 
@@ -21,10 +21,10 @@ __________________
 __________________
 ## *Books*
 
-### _Études de philosophiw ancienne_ in the series᾽Tradition de la pensée classique', ed. M. Dixsaut and D. El Murr (Vrin)
+### _Études de philosophiw ancienne_ in the series᾽Tradition de la pensée classique', ed. M. Dixsaut and D. El Murr (Paris, Vrin)
 
 ### _Studies in Greek Theology_
-For the CUP series 'Key Themes in Ancient Philosophy', ed. A.G. Long and V. Tsouna. A preliminary  version in Chinese translation was published in Beijng, November 2021.
+For the CUP series 'Key Themes in Ancient Philosophy', ed. A.G. Long and V. Tsouna. Preliminary version in Chinese translation, published  Beijing, 2021.
 
-### Plato’s _Phaedo_
+### _The Arguments of Plato’s Phaedo_
 A collection of my articles on this dialogue, lightly revised.
