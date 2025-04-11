@@ -8,29 +8,23 @@ menu:
 
 ## Articles and conference/seminar papers
 
-### ‘Divine anonymity’
-
-### ‘Theological dualism and the origins of Greek philosophy’
-
-### ‘A Parmenidean self-exegesis' = 'Parménide, exégète de Parménide'
-
-### 'Plato's _Parmenides_ and the Fourth Man' (for a SAGP Zoom panel, 4 Nov. 2023)
+### 'Plato's _Parmenides_ and the Fourth Man' (originally drafted for a SAGP Zoom panel, Nov. 2023)
 
 ### 'The Argument from Relatives'
 
-### 'Plato and Stoic ontology'(for a SAGP Zoom panel, Nov. 2024)
+### 'The Academic background to Stoic ontology', for volume on Stoic ontology, ed. R. Salles
 
-
+### 'Authorial aelf-references in Plato's dialogues'
 
 
 __________________
 __________________
 ## *Books*
 
-### A volume of 12 selected papers on ancient philosophy, in French translation, in the series ᾽Tradition de la pensée classique', ed. M. Dixsaut and D. El Murr (Vrin)
+### _Études de philosophiw ancienne_ in the series᾽Tradition de la pensée classique', ed. M. Dixsaut and D. El Murr (Vrin)
 
 ### _Studies in Greek Theology_
-Based on 2014 lectures at Renmin University. Chinese version published November 2021, Beijing. Expanded and revised English version is expected to appear eventually in the CUP series 'Key Themes in Ancient Philosophy'.
+For the CUP series 'Key Themes in Ancient Philosophy', ed. A.G. Long and V. Tsouna. A preliminary  version in Chinese translation was published in Beijng, November 2021.
 
 ### Plato’s _Phaedo_
-Not a commentary but a discursive study of the whole dialogue
+A collection of my articles on this dialogue, lightly revised.
