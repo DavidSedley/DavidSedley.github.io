@@ -27,7 +27,7 @@ __________________
 
 
 ### _Studies in Greek Theology_
-For the CUP series 'Key Themes in Ancient Philosophy', ed. A.G. Long and V. Tsouna. Preliminary version in Chinese translation, published  Beijing, 2021.
+For the CUP series 'Key Themes in Ancient Philosophy', ed. A.G. Long and V. Tsouna. Preliminary version in Chinese translation published  Beijing, 2021.
 
 ### _The Arguments of Plato’s Phaedo_
 Synthesised out of my past stidies bearing on this dialogue.
