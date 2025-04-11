@@ -9,7 +9,7 @@ menu:
 ## Articles and conference/seminar papers
 
 ### 'Plato's _Parmenides_ and the Fourth Man' 
-originally drafted for a SAGP Zoom panel, Nov. 2023)
+originally drafted for a SAGP Zoom panel, Nov. 2023
 
 ### 'The Argument from Relatives'
 For collective volume on the early Academy
