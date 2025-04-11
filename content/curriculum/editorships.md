@@ -24,5 +24,5 @@ editor, [Oxford Studies in Ancient Philosophy](https://global.oup.com/academic/c
 ### 2000-2014:
 co-editor, [Cambridge Classical Studies](http://ebooks.cambridge.org/series_landing.jsf;jsessionid=66CFDB36F77B8525F280BDD3120B7019?seriesCode=CCS&seriesTitle=Cambridge+Classical+Studies&sort=print_date) (Cambridge University Press)
 
-### 2011- : 
+### 2011-2023 : 
 ancient philosophy advisor, Oxford Bibliographies (Oxford University Press)
