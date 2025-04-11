@@ -56,3 +56,8 @@ class: "books"
 ### _The Philosophy of Antiochus_
  editor (Cambridge, 2012)
 ![](../bookcovers/Antiochus.jpg)
+
+### _Études de philosophie ancienne_
+In Vrin series᾽Tradition de la pensée classique', ed. M. Dixsaut and D. El Murr (Paris 2025, forthcoming)
+
+
