@@ -58,6 +58,6 @@ class: "books"
 ![](../bookcovers/Antiochus.jpg)
 
 ### _Études de philosophie ancienne_
-In Vrin series᾽Tradition de la pensée classique', ed. M. Dixsaut and D. El Murr (Paris 2025, forthcoming)
+Twelve selected papers translated into French. In Vrin series᾽Tradition de la pensée classique', ed. M. Dixsaut and D. El Murr (Paris 2025, forthcoming)
 
 
