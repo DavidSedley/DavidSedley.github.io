@@ -17,3 +17,6 @@ Honorary Fellow, Trinity College Oxford
 
 ### September 2018:
 presentation of festschrift, J. Bryan, R. Wardy and J. Warren (eds.), _Authors and Authorities in Ancient Philosophy_ (Cambridge 2018)
+
+### May 2025
+Honorary Fellow, Christ's College Cambridge
