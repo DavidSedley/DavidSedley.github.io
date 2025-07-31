@@ -549,7 +549,6 @@ in D. El Murr (ed.), _Le De rerum natura de Lucrèce: perspectives philosophique
  ### ‘Comments on Daniel C. Russell. 'Three mistakes about Stoic ethics'
  in F. Leigh and M. Hampson (eds.), _Psychology and Vaue in Plato, Aristotle, and Hellenistic Philosophy: the Ninth Keeling Colloquium in Ancient Philosophy_ (Oxford 2022), 203-7
 
-
  ### ‘Are Platonic Forms concepts?’
 in G. Betegh and V. Tsouna (eds.), _Conceptualising Concepts in Greek Philosophy_ (Cambridge,  2024)
 
@@ -557,8 +556,8 @@ in G. Betegh and V. Tsouna (eds.), _Conceptualising Concepts in Greek Philosophy
 in J. Klein and N. Powers (eds.)_The Oxford Handbook of Hellenistic Philosophy_) (Oxford, 2025)
 
 ### ‘A Parmenidean self-exegesis'
-in A.G. Long and B. Sattler (eds.), _Parmenides: New Perspectives_ (Oxford, 2025 forthcoming)
-= 'Parménide, exégète de Parménide', in D. Sedley, _Études de philosophie ancienne_ chapitre 1 (Paris, 2025, forthcoming)
+in A.G. Long and B. Sattler (eds.), _Parmenides: New Perspectives_ (Oxford, )
+= 'Parménide, exégète de Parménide', in D. Sedley, _Études de philosophie ancienne_ chapitre 1 (Paris, 2025, forthcoming), 
 
 ### ‘Divine anonymity'
-(forthcoming in P. Kalligas Festschrift)
+in R. Chiaradonna, R. McKirahan, A. Nehamas and V. Tsouna (eds.), _New Essays on the Platonic Tradition: In Honour of Paul Kalligas_ (Leiden, forthcoming)
