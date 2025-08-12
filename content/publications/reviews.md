@@ -53,17 +53,17 @@ _Hermetica - the Greek Corpus Hermeticum and the Latin Asclepius_, in _Times Lit
 ### M. Nussbaum
 _The Therapy of Desire_, in _Times Literary Supplement_ 24 June 1994
 
-### Reviel Netz
+### R. Netz
 _The Shaping of Deduction in Greek Mathematics: a Study in Cognitive History_, in _Classical Review_ 50 (2000), 166-7
 
 ### I. Christov (ed.)
 _Rhizai. A Journal for Ancient Philosophy and Science._ Vols. I.1 (2004), I.2 (2004), II.1 (2005), in _Bryn Mawr Classical Review_ (http://ccat.sas.upenn.edu/bmcr/2005/2005-08-43.html)_ 2005.08.43 
 
-### Teresa Morgan
+### T. Morgan
 _Popular Morality in the Early Roman Empire_, in _Times Literary Supplement_ 11 July 2008
 
-### Daryn Lehoux
+### D. Lehoux
 _What did the Romans know?_, in _Times Literary Supplement_ 12 October 2012
 
-### Richard Sorabji
+### R. Sorabji
 The Ancient Commentators on Aristotle, vols. 1-100, in _Times Literary Supplement_ 21 June 2013
