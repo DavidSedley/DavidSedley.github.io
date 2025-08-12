@@ -19,7 +19,11 @@ _La Pensée du plaisir_, in _Classical Review_ 27 (1977)
 _Platonica_, in _Classical Review_ 29 (1979)
 
 ### Jonathan Barnes
+
 _The Presocratic Philosophers_, in _The Cambridge Review_ 101, Nov. 1979
+
+### J. Glucker, 
+_Antiochus and the Late Academy_, in _Phronesis_16 (1981), 67-75 (= critical notice: 'The End of the Academy') 
 
 ### J.M. Rist (ed.)
 _The Stoics_, in _Phoenix_ 36 (1982)
