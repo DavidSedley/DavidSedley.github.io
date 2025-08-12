@@ -18,12 +18,12 @@ _La Pensée du plaisir_, in _Classical Review_ 27 (1977)
 ### A.S. Riginos
 _Platonica_, in _Classical Review_ 29 (1979)
 
-### Jonathan Barnes
+### J. Barnes
 
 _The Presocratic Philosophers_, in _The Cambridge Review_ 101, Nov. 1979
 
 ### J. Glucker, 
-_Antiochus and the Late Academy_, in _Phronesis_16 (1981), 67-75 (= critical notice: 'The End of the Academy') 
+_Antiochus and the Late Academy_, in _Phronesis_ 16 (1981), 67-75 (= critical notice: 'The End of the Academy') 
 
 ### J.M. Rist (ed.)
 _The Stoics_, in _Phoenix_ 36 (1982)
@@ -31,33 +31,33 @@ _The Stoics_, in _Phoenix_ 36 (1982)
 ### G. Indelli
 _Polistrato, Sul disprezzo irrazionale delle opinioni popolari_, in _Classical Review_ 33 (1983)
 
-### Julia Annas and Jonathan Barnes
+### J. Annas and J. Barnes
 _The Modes of Scepticism_, in _Times Literary Supplement_ 13 Sept. 1985
 
-### Michael Woods (ed.) _Oxford Studies in Ancient Philosophy_ - volume four, A Festschrift for J.L. Ackrill; 
+### M Woods (ed.) _Oxford Studies in Ancient Philosophy_ - volume four, A Festschrift for J.L. Ackrill; 
 and J.D.G. Evans, _Aristotle_
 in _Times Literary Supplement_ 4-11 Sept. 1987
 
-### David Furley, _Cosmic Problems_ and Phillip Mitsis, _Epicurus’ Ethical Theory: the Pleasures of Invulnerability_
+### D. Furley, _Cosmic Problems_ and Phillip Mitsis, _Epicurus’ Ethical Theory: the Pleasures of Invulnerability_
 in _Times Literary Supplement_ 13-19 Oct. 1989
 
-### Jonathan Barnes
+### J. Barnes
 _The Toils of Scepticism_, in _Times Literary Supplement_, 19 July 1991
 
-### Gregory Vlastos
+### G. Vlastos
 _Socrates: Ironist and Moral Philosopher_, in _Times Higher Educational Supplement_, 26 July 1991
 
-### Brian P. Copenhaver
+### B. Copenhaver
 _Hermetica - the Greek Corpus Hermeticum and the Latin Asclepius_, in _Times Literary Supplement_ 31 Dec. 1993
 
-### Martha C. Nussbaum
+### M. Nussbaum
 _The Therapy of Desire_, in _Times Literary Supplement_ 24 June 1994
 
 ### Reviel Netz
 _The Shaping of Deduction in Greek Mathematics: a Study in Cognitive History_, in _Classical Review_ 50 (2000), 166-7
 
-### Ivan Christov (ed.)
-_Rhizai. A Journal for Ancient Philosophy and Science._ Vols. I.1 (2004), I.2 (2004), II.1 (2005), in _[Bryn Mawr Classical Review](http://ccat.sas.upenn.edu/bmcr/2005/2005-08-43.html)_ 2005.08.43 
+### I. Christov (ed.)
+_Rhizai. A Journal for Ancient Philosophy and Science._ Vols. I.1 (2004), I.2 (2004), II.1 (2005), in _Bryn Mawr Classical Review_ (http://ccat.sas.upenn.edu/bmcr/2005/2005-08-43.html)_ 2005.08.43 
 
 ### Teresa Morgan
 _Popular Morality in the Early Roman Empire_, in _Times Literary Supplement_ 11 July 2008
